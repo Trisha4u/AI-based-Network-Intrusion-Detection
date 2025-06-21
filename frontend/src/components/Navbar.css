@@ -1,0 +1,24 @@
+/* Navbar.css */
+
+.navbar-brand {
+    font-weight: bold;
+    font-size: 1.5rem;
+    color: #ff4d4f !important;
+    transition: all 0.3s ease;
+  }
+  
+  .nav-link {
+    color: white !important;
+    transition: all 0.3s ease;
+  }
+  
+  .nav-link:hover {
+    color: #ff4d4f !important;
+    text-decoration: underline;
+  }
+  
+  .active {
+    color: #ff4d4f !important;
+    font-weight: bold;
+  }
+  
