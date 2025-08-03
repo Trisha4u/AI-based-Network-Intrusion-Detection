@@ -44,10 +44,6 @@ nids-ai/
 ├── .gitignore
 └── README.md
 
-yaml
-Copy
-Edit
-
 ---
 
 ## Dataset: CICIDS2017
