@@ -1,0 +1,17 @@
+*.csv
+*.parquet
+*.pkl
+__pycache__/
+*.pyc
+# Ignore data files
+data/
+*.csv
+*.parquet
+*.pkl
+*.ipynb_checkpoints/
+
+# Ignore model files
+backend/models/*.pkl
+backend/__pycache__/
+data/
+*.pcap
